@@ -31,3 +31,4 @@ Pages в репозиторий из свойства `homepage` в `package.jso
 
 Если нашли баг открывайте `issue`, обсудим, если пофиксили открывайте
 `pull request`.
+# goit-js-hw-12-countries
